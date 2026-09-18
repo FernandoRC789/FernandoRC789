@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Nick Fernando Rodríguez Contreras 👋</h1>
 
-<h3 align="center">Estudiante de Computación e Informática | Soporte TI | Backend Java 🇵🇪</h3>
+<h3 align="center">Estudiante de Computación e Informática | COfundador de StartUp CIMIENTO RC | Soporte TI | Backend Java 🇵🇪</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nick-fernando-rodriguez-contreras-a974731b5/">
@@ -25,6 +25,7 @@
 - 🎯 A futuro planeo continuar mis estudios en **Ingeniería de Sistemas** (convalidación de créditos).
 - 🌎 En búsqueda activa de una **oportunidad laboral remota internacional** en desarrollo de software, soporte TI o infraestructura.
 - ⚡ Siempre dispuesto a nuevos retos y a seguir aprendiendo.
+- Cofundador de StartUp en crecimiento CIMIENTO RC ofreciendo servicios de Software a clientes.
 
 ---
 
